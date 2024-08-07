@@ -40,7 +40,7 @@ There is no direct dependency between the two scripts. Each script is designed t
 
 ```bash
 git clone https://github.com/pathak-ashutosh/sentiment-analysis-yelp-reviews.git
-cd yelp-sentiment-analysis
+cd sentiment-analysis-yelp-reviews
 ```
 
 1. Install the required Python packages:
